@@ -1,6 +1,6 @@
 # python-for-competitive-programming
 
-Jupyter Notebook for a course on how to use Python in competitive programming
+I'm holding a class at the Advanced Programming course, where I will introduce the students in a little Python. This repo has a nice IPython Notebook that serves as reference.
 
 ## Problems to solve
 
